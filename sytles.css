@@ -1,0 +1,53 @@
+body {
+    color: #ff0000;
+}
+    
+.p1 {
+    font-family: 'Dokdo', 'cursive';
+    font-size: 200%;
+    text-align: center;
+    padding: 5% 0% 0% 5%;
+    margin-right: 20%;
+}
+
+.p2 {
+    font-family: 'Dokdo', 'cursive';
+    font-size: 200%;
+    text-align: center;
+    padding: 5% 0% 0% 5%;
+    margin-left: 1%;
+}
+
+/* FONTS */
+.play-info {
+    font-family: 'Press Start 2P', 'cursive';
+    font-weight: 44;
+    margin-left: 15%;
+    
+
+}
+
+/* PLAY AREA */
+
+
+#player-1 {
+    height: 200px;
+    margin-left: 35%;
+    /* padding-bottom: 10%; */
+
+}
+
+#player-2 {
+    height: 200px;
+    margin-left: 45%;
+    /* padding-top: 10% */
+    
+}
+
+/* foot */
+.foot {
+    font-family: 'Dokdo', 'cursive';
+    text-align: center;
+  
+}
+
